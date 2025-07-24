@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexander Potter</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate technology enthusiast that loves to learn new things</h3>
 
 - 🔭 I’m currently working on **DevOps and Data Science Coursera Courses**
 
