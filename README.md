@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **alex.potter3@hotmail.co.uk**
 
-- 📄 Know about my experiences [feel free to reach out](feel free to reach out)
+- 📄 Know about my experiences: feel free to reach out
 
 - ⚡ Fun fact **I have a degree in Computer Science, Mathematics and Economics**
 
