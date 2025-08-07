@@ -7,10 +7,6 @@
 
 - 🤝 I’m looking for help with **getting into the Technology Industry**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alexander-potter5/](https://www.linkedin.com/in/alexander-potter5/)
-
-- 📫 How to reach me **alex.potter3@hotmail.co.uk**
-
 - 📄 Know about my experiences: feel free to reach out
 
 - ⚡ Fun fact **I have a degree in Computer Science, Mathematics and Economics**
