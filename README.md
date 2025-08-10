@@ -3,12 +3,7 @@
 
 <img alt = "My Stats" align = "left"  height = "20%" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=alex-935&layout=compacticons=true&theme=radical"/>
 <img alt = "Top Langs" align = "left"  height = "20%" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alex-935&layout=compact"/>
-
-<pre>
-
-
-  
-</pre>
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexander-potter5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-potter5/" height="30" width="40" /></a>
