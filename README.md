@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander Potter</h1>
 <h3 align="center">A passionate technology enthusiast that loves to learn new things</h3>
 
-<img alt = "My Stats" align = "left"  height = "20%" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=alex-935&layout=compact private=true&show"/>
-<img alt = "Top Langs" align = "left"  height = "20%" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alex-935&layout=compact private=true&show"/>
+<img alt = "My Stats" align = "left"  height = "20%" width = "50%" src = "https://github-readme-stats.vercel.app/api?username=alex-935&layout=compact"/>
+<img alt = "Top Langs" align = "left"  height = "20%" width = "39%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=alex-935&layout=compact"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
