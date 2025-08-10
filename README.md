@@ -1,5 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Ricing<br> 🌱 I’m currently learning Java and Arch Linux<br> ⚡ Fun fact: I have a degree in Computer Science, Mathematics and Economics
+- 🔭 I’m currently working on Ricing<br>
+- 🌱 I’m currently learning Java and Arch Linux<br>
+- ⚡ Fun fact: I have a degree in Computer Science, Mathematics and Economics
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 # 💻 Tech Stack:
