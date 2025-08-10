@@ -15,9 +15,20 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
+<Border>
 ![](https://github-readme-stats.vercel.app/api?username=Alex-935&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Alex-935&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-935&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<border,  private commits>
+![](https://github-readme-stats.vercel.app/api?username=Alex-935&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alex-935&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-935&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
+ <border, lifetime commits, private commits>
+![](https://github-readme-stats.vercel.app/api?username=Alex-935&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Alex-935&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-935&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 -->
 
 ## 🏆 GitHub Trophies
