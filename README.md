@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander Potter</h1>
 <h3 align="center">A passionate technology enthusiast that loves to learn new things</h3>
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-935&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-935&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img alt = "My Stats" src = "https://github-readme-stats.vercel.app/api?username=alex-935&layout=compact"/>
+<img alt = "Top Langs" src = "(https://github-readme-stats.vercel.app/api/top-langs/?username=alex-935&layout=compact"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexander-potter5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alexander-potter5/" height="30" width="40" /></a>
@@ -36,4 +36,7 @@ Here are some ideas to get you started:
 - 📄 Know about my experiences: feel free to reach out
 
 - ⚡ Fun fact **I have a degree in Computer Science, Mathematics and Economics**
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-935&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-935&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
