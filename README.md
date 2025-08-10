@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Alex:
 - 🔭 I’m currently working on Ricing<br>
-- 🌱 I’m currently learning Java and Arch Linux<br>
+- 🌱 I’m currently learning Java<br>
 - ⚡ Fun fact: I have a degree in Computer Science, Mathematics and Economics
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
