@@ -1,17 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Potter</h1>
 <h3 align="center">A passionate technology enthusiast that loves to learn new things</h3>
 
-- 🔭 I’m currently working on **DevOps and Data Science Coursera Courses**
-
-- 🌱 I’m currently learning **Java**
-
-- 🤝 I’m looking for help with **getting into the Technology Industry**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alexander-potter5/](https://www.linkedin.com/in/alexander-potter5/)
-
-- 📄 Know about my experiences: feel free to reach out
-
-- ⚡ Fun fact **I have a degree in Computer Science, Mathematics and Economics**
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,4 +24,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+- 🔭 I’m currently working on **DevOps and Data Science Coursera Courses**
+
+- 🌱 I’m currently learning **Java**
+
+- 🤝 I’m looking for help with **getting into the Technology Industry**
+
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/alexander-potter5/](https://www.linkedin.com/in/alexander-potter5/)
+
+- 📄 Know about my experiences: feel free to reach out
+
+- ⚡ Fun fact **I have a degree in Computer Science, Mathematics and Economics**
 -->
