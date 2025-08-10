@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexander Potter</h1>
 <h3 align="center">A passionate technology enthusiast that loves to learn new things</h3>
 
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-935)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-935&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-935&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
